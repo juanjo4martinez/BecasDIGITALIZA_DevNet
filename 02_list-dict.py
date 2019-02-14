@@ -1,4 +1,4 @@
-# Crear variables con strings, integers y floats
+# Crear variables con listas de strings, integers y floats
 listaStr = ["uno","dos","tres","cuatro"]
 listaInt = [1,2,3,4]
 listaFloat = ["uno",2,3.0,4.0]
@@ -24,7 +24,7 @@ print("Variables concatenadas: "+ultimoStr+str(ultimoInt)+str(ultimoFloat))
 # Crear el diccionario (directores:películas)
 diccionario = {"George Lucas":"Star Wars","Peter Jackson":"El Señor de los Anillos"}
 
-# Imprimir por pantalla el diccionario
+# Imprimir por pantalla el diccionario completo
 print(diccionario)
 
 # Imprimir por pantalla las claves del diccionario
